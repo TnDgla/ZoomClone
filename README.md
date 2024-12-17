@@ -86,6 +86,9 @@ To create a scalable, enterprise-ready video conferencing platform with real-tim
 
 ---
 
+### **Workflow Overview**
+This section illustrates the interaction between the frontend, CSS-based styling, and deployment workflow.
+
 ## **System Architecture**
 
 The **ZoomClone** system architecture demonstrates the following:
@@ -94,6 +97,15 @@ The **ZoomClone** system architecture demonstrates the following:
 3. **Clerk Authentication**: Manages user sessions and security.
 4. **API Routes**: Handles backend requests for meeting management.
 5. **Deployment on Vercel**: Ensures scalability and global availability.
+
+![image](https://github.com/user-attachments/assets/f177ffbd-dc98-42e3-8da1-a93487073af0) 
+
+---
+
+### **Project Structure for Feature Implementation**
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic to advanced functionalities.
+
+**NOTE:** Participants are encouraged to customize the design and functionality to make the application unique.
 
 ---
 
@@ -184,7 +196,7 @@ The **ZoomClone** system architecture demonstrates the following:
 - **Tasks:**
   1. Deploy the app on **Vercel**.
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)  
-     - **Video:** [Deploying Next.js on Vercel](https://www.youtube.com/watch?v=6W8opwF7gXg)
+     - **Video:** [Deploying Next.js on Vercel](https://www.youtube.com/watch?v=2HBIzEx6IZA)
   2. Test for performance, bugs, and responsiveness.
      - **Reading:** [Next.js Testing](https://nextjs.org/docs/app/building-your-application/testing)  
      - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg)
@@ -204,6 +216,8 @@ The **ZoomClone** system architecture demonstrates the following:
   
   <br />
   </div>
+
+  
 
 ---
 
