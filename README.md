@@ -167,10 +167,10 @@ The **ZoomClone** system architecture demonstrates the following:
 - **Tasks:**
   1. Integrate chat functionality using **Stream Chat**.
      - **Reading:** [Stream Chat Integration](https://getstream.io/chat/docs/)  
-     - **Video:** [Building Chat Apps](https://www.youtube.com/watch?v=7dqxzFnu33g)
+     - **Video:** [Building Chat Apps](https://www.youtube.com/watch?v=xO9QDQaVHxU)
   2. Add screen sharing and emoji reactions.
      - **Reading:** [Screen Sharing in Stream](https://getstream.io/)  
-     - **Video:** [React Screen Sharing](https://www.youtube.com/watch?v=x5xN4_wQZpY)
+     - **Video:** [Screen Sharing](https://www.youtube.com/watch?v=X8QHHB7DA90)
   3. Display participant list with dynamic management.
 
 - **Deliverables:**
