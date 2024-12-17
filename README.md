@@ -148,7 +148,7 @@ The **ZoomClone** system architecture demonstrates the following:
 - **Tasks:**
   1. Integrate **Stream API** for video/audio calls.
      - **Reading:** [Stream API Docs](https://getstream.io/docs/)  
-     - **Video:** [Integrating Stream for Video Calls](https://www.youtube.com/watch?v=j2b5gO-p0q0)
+     - **Video:** [Integrating Stream for Video Calls](https://www.youtube.com/watch?v=64LJJhT6Ybo)
   2. Create meeting routes using **Dynamic Routing**.
      - **Reading:** [Dynamic Routes in Next.js](https://nextjs.org/docs/app/building-your-application/routing)  
      - **Video:** [Dynamic Pages Tutorial](https://www.youtube.com/watch?v=0cJ4aB3qYpU)
