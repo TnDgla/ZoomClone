@@ -135,7 +135,7 @@ The **ZoomClone** system architecture demonstrates the following:
      - **Video:** [Protected Routes in Next.js](https://www.youtube.com/watch?v=VJov5QWEKE4)
   3. Customize the login and sign-up pages using Clerk UI.
      - **Reading:** [Clerk Components](https://clerk.dev/docs)  
-     - **Video:** [Custom Clerk UI](https://www.youtube.com/watch?v=hrZrbWrhT-s)
+     - **Video:** [Custom Clerk UI](https://www.youtube.com/watch?v=MGwbCxnGDUM)
 
 - **Deliverables:**
   - Functional authentication system with social sign-ins.
