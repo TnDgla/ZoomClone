@@ -2,7 +2,7 @@
 
 ## **Project Name: ZoomClone**
 
-**ZoomClone** is a full-stack video conferencing application built using **Next.js** and **TypeScript**, with real-time video, audio, and chat features. The app enables secure video meetings with multiple participants, dynamic layouts, and easy scheduling.
+ZoomClone is a full-stack video conferencing application built using **Next.js** and **TypeScript**, with real-time video, audio, and chat features. The app enables secure video meetings with multiple participants, dynamic layouts, and easy scheduling.
 
 ---
 
