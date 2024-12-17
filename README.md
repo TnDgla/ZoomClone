@@ -107,7 +107,7 @@ The **ZoomClone** system architecture demonstrates the following:
 - **Tasks:**
   1. Initialize the Next.js app with TypeScript.
      - **Reading:** [Next.js Docs](https://nextjs.org/docs)  
-     - **Video:** [Setting Up Next.js](https://www.youtube.com/watch?v=8HJ1t5VRXqM)
+     - **Video:** [Setting Up Next.js](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=63s)
   2. Integrate **Tailwind CSS** for styling.
      - **Reading:** [Tailwind CSS Setup](https://tailwindcss.com/docs)  
      - **Video:** [Tailwind CSS Tutorial](https://www.youtube.com/watch?v=dFgzHOX84xQ)
