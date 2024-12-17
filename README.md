@@ -151,10 +151,10 @@ The **ZoomClone** system architecture demonstrates the following:
      - **Video:** [Integrating Stream for Video Calls](https://www.youtube.com/watch?v=64LJJhT6Ybo)
   2. Create meeting routes using **Dynamic Routing**.
      - **Reading:** [Dynamic Routes in Next.js](https://nextjs.org/docs/app/building-your-application/routing)  
-     - **Video:** [Dynamic Pages Tutorial](https://www.youtube.com/watch?v=0cJ4aB3qYpU)
+     - **Video:** [Dynamic Pages Tutorial](https://www.youtube.com/watch?v=D7YuI6vOzdY)
   3. Implement meeting controls (mute, unmute, exit).
      - **Reading:** [Video Controls in Stream](https://getstream.io/)  
-     - **Video:** [Meeting Controls in React](https://www.youtube.com/watch?v=JW6XdATiSkM)
+     - **Video:** [Meeting Controls](https://www.youtube.com/watch?v=8guP6F56TPk)
 
 - **Deliverables:**
   - Fully functional video conferencing feature.
