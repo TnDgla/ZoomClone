@@ -217,7 +217,23 @@ This project is structured to ensure a systematic and incremental development pr
   <br />
   </div>
 
-  
+![Screenshot (294)](https://github.com/user-attachments/assets/88eb0189-b011-42a1-a585-703c8f3d9e89)
+![Screenshot (295)](https://github.com/user-attachments/assets/feba7f8e-6563-46da-bb0f-39153416a377)
+![Screenshot (296)](https://github.com/user-attachments/assets/1f831080-03e5-4cef-a0d0-d91f74ab06b8)
+![Screenshot (297)](https://github.com/user-attachments/assets/00d46018-1ce8-4e9e-8664-d286aaffef95)
+![Screenshot (298)](https://github.com/user-attachments/assets/5f7c659c-d124-4991-a5c8-3f0e564175dd)
+![Screenshot (299)](https://github.com/user-attachments/assets/5a93cf3a-5aa0-43c9-8d08-e2a18affd433)
+![Screenshot (300)](https://github.com/user-attachments/assets/6c2353fe-c73a-400a-a192-2cf2da4ccd0b)
+![Screenshot (301)](https://github.com/user-attachments/assets/c528c196-5d2c-4fe2-9843-398eb2a9c4cd)
+![Screenshot (302)](https://github.com/user-attachments/assets/e7883db4-37ad-4b4a-8824-4fbd7445f1e7)
+![Screenshot (303)](https://github.com/user-attachments/assets/964d9e29-c36c-4416-b1bd-4dbe65d4dadd)
+![Screenshot (304)](https://github.com/user-attachments/assets/959f9143-f706-435c-bf12-9fa3a0749164)
+![Screenshot (305)](https://github.com/user-attachments/assets/e5cd4c38-4eeb-46b3-8b6b-32309deaefab)
+![Screenshot (281)](https://github.com/user-attachments/assets/abbbd962-451c-47c2-8175-f87180c9b571)
+![Screenshot (290)](https://github.com/user-attachments/assets/85e643e6-87fd-4294-b050-eb0457ad8f85)
+![Screenshot (291)](https://github.com/user-attachments/assets/e62e3e76-709f-4950-b431-2ed81f9140db)
+![Screenshot (292)](https://github.com/user-attachments/assets/25d9259c-8b73-463d-8aa6-2b80cbd17ca0)
+![Screenshot (293)](https://github.com/user-attachments/assets/c2feb872-67bb-46a5-a4f3-3cd5fd16ed3a)
 
 ---
 
@@ -227,5 +243,7 @@ This project is structured to ensure a systematic and incremental development pr
 3. [Clerk Documentation](https://clerk.dev/docs)
 4. [Tailwind CSS Docs](https://tailwindcss.com/docs)
 5. [ShadCN UI Docs](https://ui.shadcn.com/docs)
+6. https://www.youtube.com/watch?v=R8CIO1DZ2b8&t=102s
+7. https://github.com/adrianhajdin/zoom-clone
 
 ---
