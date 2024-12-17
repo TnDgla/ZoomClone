@@ -116,7 +116,7 @@ The **ZoomClone** system architecture demonstrates the following:
      - **Video:** [ShadCN Setup](https://www.youtube.com/watch?v=O4AjymzpIEg)
   4. Build a basic layout with **navbar** and **sidebar**.
      - **Reading:** [Layout in Next.js](https://nextjs.org/docs/app/building-your-application)  
-     - **Video:** [Next.js Layouts](https://www.youtube.com/watch?v=Iy5L-Uz2Z9A)
+     - **Video:** [Next.js Layouts](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=83s)
 
 - **Deliverables:**
   - Basic project setup with responsive layouts for navbar and sidebar.
